@@ -1,0 +1,5 @@
+converter_grafos: N
+tipos_dos_grafos: Matriz20M=6N, Matriz40M=6N, Matriz40M=10N, Matriz60M=6N, Matriz60M=10N, Matriz80M=6N, Matriz80M=10N, Matriz100M=6N, Matriz100M=10N
+desenhar_grafos: N
+escrever_vetores_fiedler: N
+escrever_laplaciana: S
